@@ -1,4 +1,4 @@
-# ESp8266_WU_Weather_Webserver
+# ESP8266_WU_Weather_Webserver
 
 Install / setting to work instructions:
 1. Download the source code.
